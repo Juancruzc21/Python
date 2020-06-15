@@ -1,0 +1,7 @@
+Suma +
+Resta -
+Multip *
+Exponente **
+Modulo % 
+Division / 
+Division entera // 
